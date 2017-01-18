@@ -1,0 +1,15 @@
+.comment, .comment-active {
+  padding: 10px;
+}
+
+.comment-active {
+  background-color: #0a0;
+}
+
+.comment:hover {
+  background-color: #aaa;
+}
+
+.comment-active:hover {
+  background-color: #050;  
+}
